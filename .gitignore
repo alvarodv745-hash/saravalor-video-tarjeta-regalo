@@ -1,0 +1,36 @@
+# Dependencias y salidas
+node_modules/
+dist/
+build/
+out/
+.remotion/
+
+# Material del cliente: originales, derivados y archivos de marca.
+# Son privados y no se publican. El proyecto los espera en estas rutas.
+public/
+src/brand/marks.local.ts
+docs/
+
+# Notas internas de trabajo
+CLAUDE.md
+.claude/
+skills-remotion/
+
+# Vídeo y audio: solo se publica la pieza final de demostración, sin música.
+*.mp4
+*.mov
+*.m4v
+*.webm
+*.mkv
+*.avi
+*.m4a
+*.mp3
+*.wav
+!media/sara-valor-tarjeta-regalo.mp4
+
+# Entorno y sistema
+.env
+.env.*
+.DS_Store
+Thumbs.db
+*.log
