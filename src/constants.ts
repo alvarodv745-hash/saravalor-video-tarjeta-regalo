@@ -4,7 +4,7 @@ export const VIDEO = {
   fps: 30,
 } as const;
 
-// Zonas que tapa la interfaz de Instagram Stories.
+// Zonas que tapa la interfaz de Instagram Stories/Reels.
 export const SAFE_ZONE = {
   top: 250,
   bottom: 340,

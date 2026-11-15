@@ -1,4 +1,4 @@
-# Tarjeta regalo Sara Valor · Vídeo para Instagram Reels
+# Tarjeta regalo Sara Valor · Vídeo para Instagram Stories/Reels
 
 Pieza publicitaria vertical (1080 × 1920, 29,6 s) programada íntegramente con **[Remotion](https://www.remotion.dev/)**, React y TypeScript para la campaña de tarjetas regalo de un centro de estética.
 
@@ -20,10 +20,10 @@ Cada escena, transición, movimiento de cámara y animación de texto está escr
 
 ## El encargo
 
-Un centro de estética necesitaba un vídeo para Instagram Stories que diera a conocer su tarjeta regalo de cara a la campaña de Navidad y llevara a su compra online.
+Un centro de estética necesitaba un vídeo para Instagram Stories/Reels que diera a conocer su tarjeta regalo de cara a la campaña de Navidad y llevara a su compra online.
 
 **Requisitos:**
-- Formato 9:16 para Stories, respetando las zonas que tapa la interfaz de Instagram y dejando hueco libre para el sticker de enlace.
+- Formato 9:16 para Stories/Reels, respetando las zonas que tapa la interfaz de Instagram y dejando hueco libre para el sticker de enlace.
 - Tono cálido, sereno y premium, coherente con la identidad de la marca.
 - Mostrar el producto real (caja, tarjeta impresa y tarjeta regalo), el centro, la compra en la web y las opciones de presentación.
 - Mensajes comerciales claros: precio online, compra en el centro y caducidad.
